@@ -80,8 +80,8 @@ analytics:
 # Site Author
 author:
   name             : "Sam Gong"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "ttxs.jpg"
+  bio              : "233333"
   location         : "HK"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -99,7 +99,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
